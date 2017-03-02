@@ -1,0 +1,199 @@
+package com.ice.parkingapp;
+
+import android.graphics.Color;
+import android.net.Uri;
+import android.support.v4.app.FragmentActivity;
+import android.os.Bundle;
+import android.content.Intent;
+
+import com.google.android.gms.appindexing.Action;
+import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.appindexing.Thing;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.Polyline;
+import com.google.android.gms.maps.model.PolylineOptions;
+
+import java.util.ArrayList;
+
+public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+
+    private GoogleMap mMap;
+    public LatLng mLatLng;
+    public String title;
+    public float zoom = 10;
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    private GoogleApiClient client;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_maps);
+        // Obtain the SupportMapFragment and get notified when the map is ready to be used.
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+
+        Intent intent = getIntent();
+        double lat = intent.getFloatExtra("latitude", 0);
+        double lng = intent.getFloatExtra("longitude", 0);
+        zoom = intent.getFloatExtra("zoom", 0.0f);
+        title = intent.getStringExtra("name");
+        mLatLng = new LatLng(lat, lng);
+        mapFragment.getMapAsync(this);
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+
+
+    /**
+     * Manipulates the map once available.
+     * This callback is triggered when the map is ready to be used.
+     * This is where we can add markers or lines, add listeners or move the camera. In this case,
+     * we just add a marker near Sydney, Australia.
+     * If Google Play services is not installed on the device, the user will be prompted to install
+     * it inside the SupportMapFragment. This method will only be triggered once the user has
+     * installed Google Play services and returned to the app.
+     */
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        ArrayList<LatLng> coordList = new ArrayList<LatLng>();
+        float zoomLevel = 19;
+
+        coordList.add(new LatLng(7.73409, -122.39093));
+                new LatLng(37.7356, -122.39043),
+                new LatLng(37.7363, -122.39152),
+                new LatLng(37.7362899, -122.391660),
+                new LatLng(37.7358, -122.392170),
+                new LatLng(37.73504, -122.39279),
+                new LatLng(37.73516, -122.39289),
+                new LatLng(37.7361, -122.39453),
+                new LatLng(37.73716, -122.39637),
+                new LatLng(37.73821, -122.39824),
+                new LatLng(37.73953, -122.40055),
+                new LatLng(37.73966, -122.40091),
+                new LatLng(37.73913, -122.40305),
+                new LatLng(37.73815, -122.40654),
+                new LatLng(37.73797, -122.40692),
+                new LatLng(37.7387, -122.40696),
+                new LatLng(37.73943, -122.40692),
+                new LatLng(37.73961, -122.40765),
+                new LatLng(37.73969, -122.40781),
+                new LatLng(37.73979, -122.40975),
+                new LatLng(37.73986, -122.41176),
+                new LatLng(37.73978, -122.41199),
+                new LatLng(37.739, -122.4132),
+                new LatLng(37.739, -122.41366),
+                new LatLng(37.73892, -122.41455),
+                new LatLng(37.73889, -122.41457),
+                new LatLng(37.73909, -122.41639),
+                new LatLng(37.73925, -122.41847),
+                new LatLng(37.7393, -122.41846),
+                new LatLng(37.73992, -122.41997),
+                new LatLng(37.74029, -122.4209),
+                new LatLng(37.74101, -122.42267),
+                new LatLng(37.74103, -122.42285),
+                new LatLng(37.7421999, -122.4221),
+                new LatLng(37.74241, -122.42204),
+                new LatLng(37.74241, -122.42204),
+                new LatLng(37.7423, -122.4233),
+                new LatLng(37.7423, -122.42403),
+                new LatLng(37.74216, -122.426370),
+                new LatLng(37.7420199, -122.4286),
+                new LatLng(37.74188, -122.43079),
+                new LatLng(37.74184, -122.4309),
+                new LatLng(37.7433, -122.43104),
+                new LatLng(37.7449299, -122.43117),
+                new LatLng(37.74654, -122.43132),
+                new LatLng(37.74814, -122.43155),
+                new LatLng(37.74827, -122.43177),
+                new LatLng(37.74815, -122.43363),
+                new LatLng(37.7481, -122.43378),
+                new LatLng(37.7496, -122.43383),
+                new LatLng(37.7512, -122.43401),
+                new LatLng(37.75189, -122.43405),
+                new LatLng(37.75278, -122.43416),
+                new LatLng(37.75441, -122.43431),
+                new LatLng(37.75596, -122.43446),
+                new LatLng(37.75763, -122.43464),
+                new LatLng(37.75916, -122.43479),
+                new LatLng(37.76084, -122.43493),
+                new LatLng(37.76237, -122.43508),
+                new LatLng(37.7641599, -122.43525),
+                new LatLng(37.76561, -122.43538),
+                new LatLng(37.76761, -122.43558),
+                new LatLng(37.7689499, -122.43571),
+                new LatLng(37.76906, -122.43581),
+                new LatLng(37.76938, -122.43593),
+                new LatLng(37.7700699, -122.43643),
+                new LatLng(37.77021, -122.4367),
+                new LatLng(37.77133, -122.43698),
+                new LatLng(37.77133, -122.43698),
+                new LatLng(37.77319, -122.43735),
+                new LatLng(37.77506, -122.43774),
+                new LatLng(37.7778599, -122.4383),
+                new LatLng(37.7805899, -122.43894),
+                new LatLng(37.78515, -122.43994)
+        // Add a marker and move the camera
+        mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
+        mMap.addMarker(new MarkerOptions().position(mLatLng).title(title));
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mLatLng, zoomLevel));
+
+        Polyline polyline1 = googleMap.addPolyline(new PolylineOptions()
+                .clickable(true)
+                .addAll(coordList)
+                .width(20)
+                .color(Color.BLUE));
+
+
+        googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(37.74, -122.443), 16));
+
+        // Set listeners for click events.
+
+    }
+
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    public Action getIndexApiAction() {
+        Thing object = new Thing.Builder()
+                .setName("Maps Page") // TODO: Define a title for the content shown.
+                // TODO: Make sure this auto-generated URL is correct.
+                .setUrl(Uri.parse("http://[ENTER-YOUR-URL-HERE]"))
+                .build();
+        return new Action.Builder(Action.TYPE_VIEW)
+                .setObject(object)
+                .setActionStatus(Action.STATUS_TYPE_COMPLETED)
+                .build();
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        AppIndex.AppIndexApi.start(client, getIndexApiAction());
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        AppIndex.AppIndexApi.end(client, getIndexApiAction());
+        client.disconnect();
+    }
+}

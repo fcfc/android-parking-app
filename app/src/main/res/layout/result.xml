@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    <RelativeLayout
+       android:id="@+id/mainlayout"
+       android:layout_width="wrap_content"
+       android:layout_height="fill_parent"
+       android:orientation="vertical"
+       android:layout_marginTop="50dp" >
+
+      <TextView android:id="@+id/urlText" android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" android:gravity="left"
+                 android:textSize="12sp"/>
+
+       <TextView android:id="@+id/output" android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" android:gravity="left"
+                 android:textSize="12sp"/>
+
+       <TextView android:id="@+id/jsonParsed" 
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" 
+                 android:gravity="left"
+                 android:textSize="12sp" />
+
+        <EditText
+                 android:id="@+id/serverText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/GetServerData"
+                    android:layout_alignBottom="@+id/GetServerData"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="left"
+                    android:textSize="12sp" >
+
+                    <requestFocus />
+                </EditText>
+          
+            </RelativeLayout>
+</ScrollView>

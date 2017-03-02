@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<springs>
+ <spring>
+   <name>THE GEYSERS</name>
+   <latitude>38.802</latitude>
+   <longitude>-122.81</longitude>
+   <temperature>214</temperature>
+ </spring>
+ <spring> 
+   <name>LITTLE GEYSERS</name>
+   <latitude>38.767</latitude>
+   <longitude>-122.748</longitude>
+   <temperature>210</temperature>
+ </spring>
+ <spring> 
+   <name>SURPRISE VALLEY HOT SPRINGS</name>
+   <latitude>41.534</latitude>
+   <longitude>-120.078</longitude>
+   <temperature>208</temperature>
+ </spring>
+ <spring> 
+   <name>COSO HOT SPRINGS</name>
+   <latitude>36.045</latitude>
+   <longitude>-117.769</longitude>
+   <temperature>207</temperature>
+ </spring>
+ <spring> 
+   <name>LAKE CITY HOT SPRINGS</name>
+   <latitude>41.67</latitude>
+   <longitude>-120.206</longitude>
+   <temperature>207</temperature>
+ </spring>
+<spring> 
+   <name>DEVILS KITCHEN</name>
+   <latitude>36.036</latitude>
+   <longitude>-117.802</longitude>
+   <temperature>206</temperature>
+ </spring>
+<spring> 
+   <name>TERMINAL GEYSER</name>
+   <latitude>40.421</latitude>
+   <longitude>-121.375</longitude>
+   <temperature>205</temperature>
+ </spring>
+<spring> 
+   <name>WENDEL HOT SPRINGS</name>
+   <latitude>40.355</latitude>
+   <longitude>-120.257</longitude>
+   <temperature>205</temperature>
+ </spring>
+<spring> 
+   <name>MORGAN HOT SPRING</name>
+   <latitude>40.382</latitude>
+   <longitude>-121.513</longitude>
+   <temperature>205</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRING</name>
+   <latitude>40.364</latitude>
+   <longitude>-120.243</longitude>
+   <temperature>204</temperature>
+ </spring>
+<spring> 
+   <name>GROWLER HOT SPRING</name>
+   <latitude>40.393</latitude>
+   <longitude>-121.507</longitude>
+   <temperature>203</temperature>
+ </spring>
+<spring> 
+   <name>DEVILS KITCHEN</name>
+   <latitude>40.44</latitude>
+   <longitude>-121.434</longitude>
+   <temperature>203</temperature>
+ </spring>
+<spring> 
+   <name>AMEDEE HOT SPRINGS</name>
+   <latitude>40.302</latitude>
+   <longitude>-120.195</longitude>
+   <temperature>203</temperature>
+ </spring>
+<spring> 
+   <name>FUMAROLE</name>
+   <latitude>36.031</latitude>
+   <longitude>-117.833</longitude>
+   <temperature>   203</temperature>
+ </spring>
+<spring> 
+   <name>CASA DIABLO HOT SPRINGS</name>
+   <latitude>37.648</latitude>
+   <longitude>-118.914</longitude>
+   <temperature>199</temperature>
+ </spring>
+<spring> 
+   <name>SULPHUR WORK</name>
+   <latitude>TOPHET HOT SPRINGS
+   <latitude>40.447</latitude>
+   <longitude>-121.536</longitude>
+   <temperature>199</temperature>
+ </spring>
+<spring> 
+   <name>BUMPASS HELL</name>
+   <latitude>40.455</latitude>
+   <longitude>-121.501</longitude>
+   <temperature>199</temperature>
+ </spring>
+<spring> 
+   <name>HOT CREEK GORGE SPRINGS</name>
+   <latitude>37.665</latitude>
+   <longitude>-118.828</longitude>
+   <temperature>199</temperature>
+ </spring>
+<spring> 
+   <name>KELLY HOT SPRING</name>
+   <latitude>41.45</latitude>
+   <longitude>-120.834</longitude>
+   <temperature>  198</temperature>
+ </spring>
+<spring> 
+   <name>ARROWHEAD SPRINGS</name>
+   <latitude>34.185</latitude>
+   <longitude>-117.262</longitude>
+   <temperature>194</temperature>
+ </spring>
+<spring> 
+   <name>SESPE HOT SPRINGS</name>
+   <latitude>34.596</latitude>
+   <longitude>-118.998</longitude>
+   <temperature>194</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPOT</name>
+   <latitude>41.607</latitude>
+   <longitude>-121.523</longitude>
+   <temperature>191</temperature>
+ </spring>
+<spring> 
+   <name>BOILING SPRINGS</name>
+   <latitude>40.434</latitude>
+   <longitude>-121.399</longitude>
+   <temperature>190</temperature>
+ </spring>
+<spring> 
+   <name>SEYFERTH HOT SPRINGS</name>
+   <latitude>41.615</latitude>
+   <longitude>-120.102</longitude>
+   <temperature>185</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRING FUMAROLES</name>
+   <latitude>41.407</latitude>
+   <longitude>-122.197</longitude>
+   <temperature>183</temperature>
+ </spring>
+<spring> 
+   <name>PAOHA ISLAND SPRINGS</name>
+   <latitude>37.993</latitude>
+   <longitude>-119.028</longitude>
+   <temperature>181</temperature>
+ </spring>
+<spring> 
+   <name>BIG BEND HOT SPRINGS</name>
+   <latitude>41.025</latitude>
+   <longitude>-121.924</longitude>
+   <temperature>180</temperature>
+ </spring>
+<spring> 
+   <name>TRAVERTINE HOT SPRINGS</name>
+   <latitude>38.245</latitude>
+   <longitude>-119.205</longitude>
+   <temperature>180</temperature>
+ </spring>
+<spring> 
+   <name>FALES HOT SPRINGS</name>
+   <latitude>38.348</latitude>
+   <longitude>-119.4</longitude>
+   <temperature>180</temperature>
+ </spring>
+<spring> 
+   <name>LITTLE HOT CREEK SPRIN</name>
+   <latitude> 37.692</latitude>
+   <longitude>-118.839</longitude>
+   <temperature>180</temperature>
+ </spring>
+<spring> 
+   <name>BASSETT HOT SPRINGS</name>
+   <latitude>41.143</latitude>
+   <longitude>-121.11</longitude>
+   <temperature>174</temperature>
+ </spring>
+<spring> 
+   <name>KELLOG HOT SPRINGS</name>
+   <latitude>41.126</latitude>
+   <longitude>-121.028</longitude>
+   <temperature>172</temperature>
+ </spring>
+<spring> 
+   <name>CALISTOGA HOT SPRINGS</name>
+   <latitude>38.58</latitude>
+   <longitude>-122.575</longitude>
+   <temperature>172</temperature>
+ </spring>
+<spring> 
+   <name>HOT CREEK SPRINGS</name>
+   <latitude>37.656</latitude>
+   <longitude>-118.834</longitude>
+   <temperature>171</temperature>
+ </spring>
+<spring> 
+   <name>WEST VALLEY RESERVOIR HOT SPRING</name>
+   <latitude>41.19</latitude>
+   <longitude>-120.383</longitude>
+   <temperature>171</temperature>
+ </spring>
+<spring> 
+   <name>LITTLE HOT SPRING</name>
+   <latitude>41.229</latitude>
+   <longitude>-121.405</longitude>
+   <temperature>169</temperature>
+ </spring>
+<spring> 
+   <name>THE TUB</name>
+   <latitude>37.664</latitude>
+   <longitude>-118.802</longitude>
+   <temperature>167</temperature>
+ </spring>
+<spring> 
+   <name>CASA DIABLO HOT POOL</name>
+   <latitude>37.647</latitude>
+   <longitude>-118.859</longitude>
+   <temperature>165</temperature>
+ </spring>
+<spring> 
+   <name>CASTLE ROCK SPRINGS</name>
+   <latitude>38.768</latitude>
+   <longitude>-122.717</longitude>
+   <temperature>163</temperature>
+ </spring>
+<spring> 
+   <name>ELGIN MINE</name>
+   <latitude>39.057</latitude>
+   <longitude>-122.475</longitude>
+   <temperature>156</temperature>
+ </spring>
+<spring> 
+   <name>KLAMATH HOT SPRING</name>
+   <latitude>41.973</latitude>
+   <longitude>-122.202</longitude>
+   <temperature>156</temperature>
+ </spring>
+<spring> 
+   <name>SULPHUR BANK</name>
+   <latitude>39.002</latitude>
+   <longitude>-122.66</longitude>
+   <temperature>156</temperature>
+ </spring>
+<spring> 
+   <name>WILBUR SPRINGS</name>
+   <latitude>39.039</latitude>
+   <longitude>-122.421</longitude>
+   <temperature>153</temperature>
+ </spring>
+<spring> 
+   <name>DRAKESBAD</name>
+   <latitude>40.444</latitude>
+   <longitude>-121.409</longitude>
+   <temperature>151</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRING</name>
+   <latitude>38.048</latitude>
+   <longitude>-119.081</longitude>
+   <temperature>151</temperature>
+ </spring>
+<spring> 
+   <name>MILL CREEK SPRINGS</name>
+   <latitude>40.457</latitude>
+   <longitude>-121.545</longitude>
+   <temperature>150</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>38.773</latitude>
+   <longitude>-119.713</longitude>
+   <temperature>149</temperature>
+ </spring>
+<spring> 
+   <name>GROVERS HOT SPRINGS</name>
+   <latitude>38.699</latitude>
+   <longitude>-119.846</longitude>
+   <temperature>147</temperature>
+ </spring>
+<spring> 
+   <name>LEONARDS HOT SPRINGS</name>
+   <latitude>41.6</latitude>
+   <longitude>-120.088</longitude>
+   <temperature>144</temperature>
+ </spring>
+<spring> 
+   <name>BARTLETT SPRINGS</name>
+   <latitude>39.183</latitude>
+   <longitude>-122.7</longitude>
+   <temperature>144</temperature>
+ </spring>
+<spring> 
+   <name>TASSAJARA HOT SPRINGS</name>
+   <latitude>36.234</latitude>
+   <longitude>-121.546</longitude>
+   <temperature>144</temperature>
+ </spring>
+<spring> 
+   <name>JONES FOUNTAIN OF LIFE SPRING</name>
+   <latitude>39.033</latitude>
+   <longitude>-122.445</longitude>
+   <temperature>142</temperature>
+ </spring>
+<spring> 
+   <name>BUCKEYE HOT SPRING</name>
+   <latitude>38.237</latitude>
+   <longitude>-119.326</longitude>
+   <temperature>140</temperature>
+ </spring>
+<spring> 
+   <name>WARNER HOT SPRING</name>
+   <latitude>33.284</latitude>
+   <longitude>-116.631</longitude>
+   <temperature>138</temperature>
+ </spring>
+<spring> 
+   <name>HUNT HOT SPRING</name>
+   <latitude>41.036</latitude>
+   <longitude>-121.926</longitude>
+   <temperature>136</temperature>
+ </spring>
+<spring> 
+   <name>SKAGGS SPRINGS</name>
+   <latitude>38.691</latitude>
+   <longitude>123.024</longitude>
+   <temperature>135</temperature>
+ </spring>
+<spring> 
+   <name>MENLO BATHS</name>
+   <latitude>41.266</latitude>
+   <longitude>-120.08</longitude>
+   <temperature>135</temperature>
+ </spring>
+<spring> 
+   <name>DEHY HOT SPRING</name>
+   <latitude>37.677</latitude>
+   <longitude>-118.79</longitude>
+   <temperature>134</temperature>
+ </spring>
+<spring> 
+   <name>BENTON HOT SPRINGS</name>
+   <latitude>37.802</latitude>
+   <longitude>-118.532</longitude>
+   <temperature>134</temperature>
+ </spring>
+<spring> 
+   <name>SCOVERN HOT SPRINGS</name>
+   <latitude>35.62</latitude>
+   <longitude>-118.473</longitude>
+   <temperature>133</temperature>
+ </spring>
+<spring> 
+   <name>AGUA CALIENTE SPRING</name>
+   <latitude>34.538</latitude>
+   <longitude>-119.56</longitude>
+   <temperature>133</temperature>
+ </spring>
+<spring> 
+   <name>MURRIETTA HOT SPRINGS</name>
+   <latitude>33.558</latitude>
+   <longitude>-117.154</longitude>
+   <temperature>132</temperature>
+ </spring>
+<spring> 
+   <name>GLEN IVY HOT SPRINGS</name>
+   <latitude>33.753</latitude>
+   <longitude>-117.495</longitude>
+   <temperature>131</temperature>
+ </spring>
+<spring> 
+   <name>BROCKWAY HOT SPRINGS</name>
+   <latitude>39.226</latitude>
+   <longitude>-120.01</longitude>
+   <temperature>131</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRINGS</name>
+   <latitude>37.648</latitude>
+   <longitude>-118.806</longitude>
+   <temperature>129</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>37.667</latitude>
+   <longitude>-118.781</longitude>
+   <temperature>127</temperature>
+ </spring>
+<spring> 
+   <name>SEIGLER SPRINGS</name>
+   <latitude>38.873</latitude>
+   <longitude>-122.689</longitude>
+   <temperature>126</temperature>
+ </spring>
+ <spring> 
+   <name>WRENDEN HOT SPR</name>
+   <latitude>33.67</latitude>
+   <longitude>-117.325</longitude>
+   <temperature>125</temperature>
+ </spring>
+ <spring> 
+   <name>VICKERS HOT SPRINGS</name>
+   <latitude>34.502</latitude>
+   <longitude>-119.346</longitude>
+   <temperature>124</temperature>
+ </spring>
+ <spring> 
+   <name>JORDAN HOT SPRINGS</name>
+   <latitude>36.229</latitude>
+   <longitude>-118.302</longitude>
+   <temperature>124</temperature>
+ </spring>
+ <spring> 
+   <name>KEOUGH HOT SPRINGS</name>
+   <latitude>37.253</latitude>
+   <longitude>-118.373</longitude>
+   <temperature>124</temperature>
+ </spring>
+ <spring> 
+   <name>STINGLEYS HOT SPRINGS</name>
+   <latitude>34.498</latitude>
+   <longitude>-119.341</longitude>
+   <temperature>123</temperature>
+ </spring>
+ <spring> 
+   <name>CALIFORNIA HOT SPRINGS</name>
+   <latitude>35.881</latitude>
+   <longitude>-118.67</longitude>
+   <temperature>122</temperature>
+ </spring>
+ <spring> 
+   <name>SLATES HOT SPRINGS</name>
+   <latitude>36.123</latitude>
+   <longitude>-121.64</longitude>
+   <temperature>122</temperature>
+ </spring>
+ <spring> 
+   <name></name>
+   <latitude>38.777</latitude>
+   <longitude>-122.763</longitude>
+   <temperature>120</temperature>
+ </spring>
+<spring> 
+   <name>SAN JUAN HOT SPRINGS</name>
+   <latitude>33.589</latitude>
+   <longitude>-117.511</longitude>
+   <temperature>120</temperature>
+ </spring>
+<spring> 
+   <name>PALM SPRING</name>
+   <latitude>36.814</latitude>
+   <longitude>-117.763</longitude>
+   <temperature>  120</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>37.657</latitude>
+   <longitude>-118.764</longitude>
+   <temperature> 120</temperature>
+ </spring>
+<spring> 
+   <name>HARBIN SPRINGS</name>
+   <latitude>38.785</latitude>
+   <longitude>-122.655</longitude>
+   <temperature>120</temperature>
+ </spring>
+<spring> 
+   <name>SULPHUR CREEK</name>
+   <latitude>38.788</latitude>
+   <longitude>-122.777</longitude>
+   <temperature> 120</temperature>
+ </spring>
+<spring> 
+   <name>MIRACLE HOT SPRS</name>
+   <latitude>35.575</latitude>
+   <longitude>-118.534</longitude>
+   <temperature>119</temperature>
+ </spring>
+<spring> 
+   <name>MERCEY HOT SPRINGS</name>
+   <latitude>36.703</latitude>
+   <longitude>-120.86</longitude>
+   <temperature>119</temperature>
+ </spring>
+<spring> 
+   <name>TECOPA HOT SPRINGS</name>
+   <latitude>35.871</latitude>
+   <longitude>-116.23</longitude>
+   <temperature>118</temperature>
+ </spring>
+<spring> 
+   <name>MONTECITO HOT SPRINGS</name>
+   <latitude>34.461</latitude>
+   <longitude>-119.637</longitude>
+   <temperature>118</temperature>
+ </spring>
+<spring> 
+   <name>GILMAN HOT SPRINGS</name>
+   <latitude>33.835</latitude>
+   <longitude>-116.988</longitude>
+   <temperature>117</temperature>
+ </spring>
+<spring> 
+   <name>TEMECULA HOT SPRINGS</name>
+   <latitude>33.551</latitude>
+   <longitude>-117.167</longitude>
+   <temperature>116</temperature>
+ </spring>
+<spring> 
+   <name>WHITES POINT HOT SPRINGS</name>
+   <latitude>33.731</latitude>
+   <longitude>-118.348</longitude>
+   <temperature>115</temperature>
+ </spring>
+<spring> 
+   <name>DEMOCRAT HOT SPRINGS</name>
+   <latitude>35.528</latitude>
+   <longitude>-118.665</longitude>
+   <temperature>115</temperature>
+ </spring>
+<spring> 
+   <name>REDS MEADOW HOT SPRINGS</name>
+   <latitude>37.618</latitude>
+   <longitude>-119.074</longitude>
+   <temperature>115</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>36.331</latitude>
+   <longitude>-121.843</longitude>
+   <temperature>114</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRING</name>
+   <latitude>35.727</latitude>
+   <longitude>-118.408</longitude>
+   <temperature>113</temperature>
+ </spring>
+<spring> 
+   <name>FORT BIDWELL HOT SPRING</name>
+   <latitude>41.86</latitude>
+   <longitude>-120.158</longitude>
+   <temperature>113</temperature>
+ </spring>
+<spring> 
+   <name>HOWARD SPRINGS</name>
+   <latitude>38.858</latitude>
+   <longitude>-122.671</longitude>
+   <temperature>    113</temperature>
+ </spring>
+<spring> 
+   <name>THE HOT SPRINGS</name>
+   <latitude>38.225</latitude>
+   <longitude>-119.217</longitude>
+   <temperature>113</temperature>
+ </spring>
+<spring> 
+   <name>BLANK SPRING</name>
+   <latitude>39.032</latitude>
+   <longitude>-122.432</longitude>
+   <temperature>112</temperature>
+ </spring>
+<spring> 
+   <name>HIGHLAND SPRINGS</name>
+   <latitude>33.969</latitude>
+   <longitude>-116.942</longitude>
+   <temperature>112</temperature>
+ </spring>
+<spring> 
+   <name>DELONEGHA HOT SPRINGS</name>
+   <latitude>35.558</latitude>
+   <longitude>-118.612</longitude>
+   <temperature>112</temperature>
+ </spring>
+<spring> 
+   <name>COALINGA MINERAL SPRINGS</name>
+   <latitude>36.144</latitude>
+   <longitude>-120.555</longitude>
+   <temperature>112</temperature>
+ </spring>
+<spring> 
+   <name>CAMPBELL HOT SPRINGS</name>
+   <latitude>39.573</latitude>
+   <longitude>-120.348</longitude>
+   <temperature>   111</temperature>
+ </spring>
+<spring> 
+   <name>POINT ARENA HOT SPRINGS</name>
+   <latitude>38.874</latitude>
+   <longitude>123.518</longitude>
+   <temperature>111</temperature>
+ </spring>
+<spring> 
+   <name>FISH CREEK HOT SPRINGS</name>
+   <latitude>37.532</latitude>
+   <longitude>-119.025</longitude>
+   <temperature> 110</temperature>
+ </spring>
+<spring> 
+   <name>SAN MARCOS HOT SPRING</name>
+   <latitude>34.537</latitude>
+   <longitude>-119.879</longitude>
+   <temperature>  110</temperature>
+ </spring>
+<spring> 
+   <name>LOWER WARM SPRINGS</name>
+   <latitude>36.806</latitude>
+   <longitude>-117.771</longitude>
+   <temperature>110</temperature>
+ </spring>
+<spring> 
+   <name>MONO HOT SPRINGS</name>
+   <latitude>37.327</latitude>
+   <longitude>-119.018</longitude>
+   <temperature>109</temperature>
+ </spring>
+ <spring> 
+   <name>BLANEY MEADOWS HOT SPRINGS</name>
+   <latitude>37.234</latitude>
+   <longitude>-118.881</longitude>
+   <temperature>109</temperature>
+ </spring>
+ <spring> 
+   <name>KERN HOT SPRING</name>
+   <latitude>36.477</latitude>
+   <longitude>-118.404</longitude>
+   <temperature>109</temperature>
+ </spring>
+ <spring> 
+   <name>MATILIJA HOT SPRINGS</name>
+   <latitude>34.482</latitude>
+   <longitude>-119.302</longitude>
+   <temperature>109</temperature>
+ </spring>
+<spring> 
+   <name>EDEN HOT SPRINGS</name>
+   <latitude>33.896</latitude>
+   <longitude>-117.057</longitude>
+   <temperature>109</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>41.208</latitude>
+   <longitude>-120.054</longitude>
+   <temperature> 109</temperature>
+ </spring>
+<spring> 
+   <name>ANDERSON SPRINGS</name>
+   <latitude>38.773</latitude>
+   <longitude>-122.705</longitude>
+   <temperature>   108</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>35.649</latitude>
+   <longitude>-120.687</longitude>
+   <temperature> 108</temperature>
+ </spring>
+<spring> 
+   <name>WILLETT HOT SPRINGS</name>
+   <latitude>34.582</latitude>
+   <longitude>-119.044</longitude>
+   <temperature>  108</temperature>
+ </spring>
+<spring> 
+   <name>HORSESHOE SPRING</name>
+   <latitude>38.994</latitude>
+   <longitude>-122.742</longitude>
+   <temperature> 108</temperature>
+ </spring>
+<spring> 
+   <name>WARM SPRIN</name>
+   <latitude>34.34</latitude>
+   <longitude>-117.173</longitude>
+   <temperature> 108</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>39.98</latitude>
+   <longitude>-120.064</longitude>
+   <temperature>     108</temperature>
+ </spring>
+<spring> 
+   <name>CRABTREE HOT SPRINGS</name>
+   <latitude>39.292</latitude>
+   <longitude>-122.821</longitude>
+   <temperature>106</temperature>
+ </spring>
+<spring> 
+   <name>INDIAN VALLEY HOT SPRINGS</name>
+   <latitude>40.142</latitude>
+   <longitude>-120.935</longitude>
+   <temperature>106</temperature>
+ </spring>
+<spring> 
+   <name>GILROY HOT SPRINGS</name>
+   <latitude>37.108</latitude>
+   <longitude>-121.478</longitude>
+   <temperature>106</temperature>
+ </spring>
+<spring> 
+   <name>SQUAW BATHS</name>
+   <latitude>41.219</latitude>
+   <longitude>-120.066</longitude>
+   <temperature>106</temperature>
+ </spring>
+<spring> 
+   <name>ORRS SPRINGS</name>
+   <latitude>39.227</latitude>
+   <longitude>-123.362</longitude>
+   <temperature>104</temperature>
+ </spring>
+ <spring> 
+   <name>PALM SPRINGS</name>
+   <latitude>33.823</latitude>
+   <longitude>-116.542</longitude>
+   <temperature>104</temperature>
+ </spring>
+<spring> 
+   <name>NEVARES SPRINGS</name>
+   <latitude>36.512</latitude>
+   <longitude>-116.821</longitude>
+   <temperature> 102</temperature>
+ </spring>
+<spring> 
+   <name>WHEELER SPRINGS</name>
+   <latitude>34.507</latitude>
+   <longitude>-119.291</longitude>
+   <temperature>  102</temperature>
+ </spring>
+<spring> 
+   <name>SOBODA HOT SPRINGS</name>
+   <latitude>33.8</latitude>
+   <longitude>-116.927</longitude>
+   <temperature>  102</temperature>
+ </spring>
+<spring> 
+   <name>PASO ROBLES ARTESIAN SPRING</name>
+   <latitude>35.663</latitude>
+   <longitude>-120.692</longitude>
+   <temperature> 102</temperature>
+ </spring>
+<spring> 
+   <name>JACUMBA HOT SPRINGS</name>
+   <latitude>32.617</latitude>
+   <longitude>-116.189</longitude>
+   <temperature>   101</temperature>
+ </spring>
+<spring> 
+   <name>STINKING SPRINGS</name>
+   <latitude>40.223</latitude>
+   <longitude>-122.747</longitude>
+   <temperature>    101</temperature>
+ </spring>
+<spring> 
+   <name>AGUA CALIENTE SPRINGS</name>
+   <latitude>32.947</latitude>
+   <longitude>-116.305</longitude>
+   <temperature>   101</temperature>
+ </spring>
+<spring> 
+   <name>SULPHUR HOT SPRING</name>
+   <latitude>36.618</latitude>
+   <longitude>-121.845</longitude>
+   <temperature>   100</temperature>
+ </spring>
+<spring> 
+   <name>MUD POTS</name>
+   <latitude>33.212</latitude>
+   <longitude>-115.591</longitude>
+   <temperature>  100</temperature>
+ </spring>
+<spring> 
+   <name>HOODS HOT SPRINGS</name>
+   <latitude>38.8</latitude>
+   <longitude>-123.17</longitude>
+   <temperature>    100</temperature>
+ </spring>
+<spring> 
+   <name>SODA SPRINGS</name>
+   <latitude>36.21</latitude>
+   <longitude>-118.176</longitude>
+   <temperature>    100</temperature>
+ </spring>
+<spring> 
+   <name>YATES HOT SPRINGS</name>
+   <latitude>35.433</latitude>
+   <longitude>-118.478</longitude>
+   <temperature>    100</temperature>
+ </spring>
+<spring> 
+   <name>PARADISE SPRING</name>
+   <latitude>35.143</latitude>
+   <longitude>-116.813</longitude>
+   <temperature>   100</temperature>
+ </spring>
+<spring> 
+   <name>LAKEVIEW HOT SPRINGS</name>
+   <latitude>33.837</latitude>
+   <longitude>-117.145</longitude>
+   <temperature>   100</temperature>
+ </spring>
+<spring> 
+   <name>WISTER MUD POT</name>
+   <latitude>33.217</latitude>
+   <longitude>-115.58</longitude>
+   <temperature>   100</temperature>
+ </spring>
+<spring> 
+   <name>MUD POTS</name>
+   <latitude>33.201</latitude>
+   <longitude>-115.577</longitude>
+   <temperature> 100</temperature>
+ </spring>
+<spring> 
+   <name>GRAPEVINE SPRINGS</name>
+   <latitude>37.029</latitude>
+   <longitude>-117.383</longitude>
+   <temperature>    100</temperature>
+ </spring>
+<spring> 
+   <name>NEWSOM SPRINGS</name>
+   <latitude>35.122</latitude>
+   <longitude>-120.542</longitude>
+   <temperature>    99</temperature>
+ </spring>
+<spring> 
+   <name>LAS CRUCES HOT SPRINGS</name>
+   <latitude>34.503</latitude>
+   <longitude>-120.219</longitude>
+   <temperature> 99</temperature>
+ </spring>
+<spring> 
+   <name>SPRING</name>
+   <latitude>40.019</latitude>
+   <longitude>-121.036</longitude>
+   <temperature> 99</temperature>
+ </spring>
+<spring> 
+   <name>DOLANS HOT SPRING</name>
+   <latitude>36.084</latitude>
+   <longitude>-121.584</longitude>
+   <temperature>98</temperature>
+ </spring>
+<spring> 
+   <name>PARAISO SPRINGS</name>
+   <latitude>36.331</latitude>
+   <longitude>-121.367</longitude>
+   <temperature>98</temperature>
+ </spring>
+<spring> 
+   <name>FUMAROLE</name>
+   <latitude>38.979</latitude>
+   <longitude>-122.659</longitude>
+   <temperature> H</temperature>
+ </spring>
+<spring> 
+   <name>"ZAMBONI HOT SPRINGS</name>
+   <latitude>39.922</latitude>
+   <longitude>-120.024</longitude>
+   <temperature>H</temperature>
+ </spring>
+<spring> 
+   <name>HOT SPRINGS</name>
+   <latitude>41.012</latitude>
+   <longitude>-121.274</longitude>
+   <temperature>H</temperature>
+ </spring>
+<spring> 
+   <name>FUMAROLES</name>
+   <latitude>37.622</latitude>
+   <longitude>-119.028</longitude>
+   <temperature>  H</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>37.836</latitude>
+   <longitude>-119.016</longitude>
+   <temperature> 97</temperature>
+ </spring>
+<spring> 
+   <name>CANYON SPRING</name>
+   <latitude>33.545</latitude>
+   <longitude>-115.654</longitude>
+   <temperature>97</temperature>
+ </spring>
+<spring> 
+   <name>GORDON WARM SPRINGS</name>
+   <latitude>38.835</latitude>
+   <longitude>-122.731</longitude>
+   <temperature>97</temperature>
+ </spring>
+<spring> 
+   <name>ST HELENA WHITE SULPHUR SPRING</name>
+   <latitude>38.49</latitude>
+   <longitude>-122.498</longitude>
+   <temperature> 97</temperature>
+ </spring>
+<spring> 
+   <name>FAIRVIEW HOT SPRING</name>
+   <latitude>33.664</latitude>
+   <longitude>-117.913</longitude>
+   <temperature>  96</temperature>
+ </spring>
+<spring> 
+   <name>BYRON HOT SPRINGS</name>
+   <latitude>37.847</latitude>
+   <longitude>-121.635</longitude>
+   <temperature>   96</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>38.986</latitude>
+   <longitude>-122.736</longitude>
+   <temperature> 95</temperature>
+ </spring>
+<spring> 
+   <name></name>
+   <latitude>37.413</latitude>
+   <longitude>-119.139</longitude>
+   <temperature>    95</temperature>
+ </spring>
+<spring> 
+   <name>PECHO WARM SPRINGS</name>
+   <latitude>35.269</latitude>
+   <longitude>-120.851</longitude>
+   <temperature>   95</temperature>
+ </spring>
+ <spring> 
+   <name>SPRING</name>
+   <latitude>33.514</latitude>
+   <longitude>-117.604</longitude>
+   <temperature>     95</temperature>
+ </spring>
+ <spring> 
+   <name>WHITMORE HOT SPRINGS</name>
+   <latitude>37.63</latitude>
+   <longitude>-118.808</longitude>
+   <temperature>95</temperature>
+ </spring>
+ <spring> 
+   <name>NEWMAN SPRINGS</name>
+   <latitude>39.196</latitude>
+   <longitude>-122.714</longitude>
+   <temperature>94</temperature>
+ </spring>
+ <spring> 
+   <name>SPRINGS</name>
+   <latitude>43.513</latitude>
+   <longitude>-119.903</longitude>
+   <temperature>93</temperature>
+ </spring>
+ <spring> 
+   <name></name>
+   <latitude>35.363</latitude>
+   <longitude>-119.727</longitude>
+   <temperature>93</temperature>
+ </spring>
+<spring> 
+   <name>KEANE WONDER SPRING</name>
+   <latitude>36.675</latitude>
+   <longitude>-116.923</longitude>
+   <temperature> 93</temperature>
+ </spring>
+ <spring> 
+   <name>DIRTY SOCKS HOT SPRING</name>
+   <latitude>36.33</latitude>
+   <longitude>-117.948</longitude>
+   <temperature>93</temperature>
+ </spring>
+<spring> 
+   <name>RIVIERA BEACH SPRING</name>
+   <latitude>38.958</latitude>
+   <longitude>-122.701</longitude>
+   <temperature> 93</temperature>
+ </spring>
+ <spring> 
+   <name>AGUA TIBIA SPRING</name>
+   <latitude>33.363</latitude>
+   <longitude>-117.017</longitude>
+   <temperature> 92</temperature>
+ </spring>
+ <spring> 
+   <name>TYLERS BATH SPRING</name>
+   <latitude>34.228</latitude>
+   <longitude>-117.483</longitude>
+   <temperature> 92</temperature>
+ </spring>
+ <spring> 
+   <name>WARM SPRING</name>
+   <latitude>34.605</latitude>
+   <longitude>-118.561</longitude>
+   <temperature> 92</temperature>
+ </spring>
+ <spring> 
+   <name>BAINTER SPRING</name>
+   <latitude>35.842</latitude>
+   <longitude>-117.38</longitude>
+   <temperature> 92</temperature>
+ </spring>
+ <spring> 
+   <name>SANTA YSABEL SPRINGS</name>
+   <latitude>35.582</latitude>
+   <longitude>-120.666</longitude>
+   <temperature>92</temperature>
+ </spring>
+ <spring> 
+   <name>ESSEX SPRINGS</name>
+   <latitude>41.492</latitude>
+   <longitude>-120.7</longitude>
+   <temperature>  91</temperature>
+ </spring>
+ <spring> 
+   <name>AETNA SPRINGS</name>
+   <latitude>38.654</latitude>
+   <longitude>-122.484</longitude>
+   <temperature>  91</temperature>
+ </spring>
+ <spring> 
+   <name></name>
+   <latitude>37.941</latitude>
+   <longitude>-119.036</longitude>
+   <temperature>91</temperature>
+ </spring>
+ <spring> 
+   <name>BARE RANCH SPRING</name>
+   <latitude>41.167</latitude>
+   <longitude>-120.032</longitude>
+   <temperature>90</temperature>
+ </spring>
+ <spring> 
+   <name>FISH SPRINGS</name>
+   <latitude>33.407</latitude>
+   <longitude>-116.035</longitude>
+   <temperature>90</temperature>
+ </spring>
+ <spring> 
+   <name></name>
+   <latitude>34.124</latitude>
+   <longitude>-117.078</longitude>
+   <temperature>   90</temperature>
+ </spring>
+ <spring> 
+   <name>LITTLE CALIENTE SPRING</name>
+   <latitude>34.537</latitude>
+   <longitude>-119.613</longitude>
+   <temperature>90</temperature>
+ </spring>
+ <spring> 
+   <name>SHOSHONE SPRING</name>
+   <latitude>35.978</latitude>
+   <longitude>--116.273</longitude>
+   <temperature> 90</temperature>
+ </spring>
+ <spring> 
+   <name>CARNEROS SPRING</name>
+   <latitude>35.439</latitude>
+   <longitude>-119.846</longitude>
+   <temperature> 90</temperature>
+ </spring>
+ <spring> 
+   <name>TRAVERTINE SPRINGS</name>
+   <latitude>36.441</latitude>
+   <longitude>-116.829</longitude>
+   <temperature>90</temperature>
+ </spring>
+ <spring> 
+   <name>ROCKY POINT SPRINGS</name>
+   <latitude>37.88</latitude>
+   <longitude>-122.627</longitude>
+   <temperature>90</temperature>
+ </spring>
+ <spring> 
+   <name>BIG SODA SPRING</name>
+   <latitude>39.006</latitude>
+   <longitude>-122.787</longitude>
+   <temperature>90</temperature>
+ </spring>
+</springs>

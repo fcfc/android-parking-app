@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pn">To</string>
+    <string name="msg">Message</string>
+    <drawable name="bg">#282828</drawable>
+    <string name="b1"> Send</string>
+    <string name="server">http://192.168.1.113</string>
+</resources>

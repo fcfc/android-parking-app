@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/gradient">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Block 32"
+            android:id="@+id/block" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="23rd st"
+            android:id="@+id/street"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="BT Noe and Castro"
+            android:id="@+id/textView5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="South Side"
+            android:id="@+id/side"
+            android:layout_weight="0.00" />
+    </LinearLayout>
+
+    <TextClock
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textClock"
+        android:layout_gravity="center_horizontal"
+        android:textSize="@dimen/abc_text_size_body_1_material"
+        android:layout_weight="0.09" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Street Sweeping 12PM to 2PM"
+        android:id="@+id/rule1"
+        android:backgroundTint="#f7d8d8"
+        android:textColor="#fc0101" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="2 Hour Permit M-F 8AM to 9PM"
+        android:id="@+id/rule2"
+        android:textColor="#ff0000" />
+    <TextView
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="HILL Curb wheels"
+        android:id="@+id/rule3"
+        android:textColor="#fd0101"
+        android:layout_weight="0.21" />
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="55dp">
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="MOVE CAR BY "
+            android:id="@+id/textView3"
+            android:textColor="#fa0606" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="11:43"
+            android:id="@+id/moveby" />
+    </LinearLayout>
+</LinearLayout>

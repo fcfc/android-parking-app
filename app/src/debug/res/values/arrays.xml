@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <array name="apis">
+    <item>get_location</item>
+    <item>getParkingInfo</item>
+    <item>get_closest_parking</item>
+    <item>get_streetsweeping</item>
+
+    </array> 
+</resources>

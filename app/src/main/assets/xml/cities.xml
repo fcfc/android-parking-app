@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cities>
+   <city>
+     <name>Malmo</name>
+     <country>Sweden</country>
+     <lat>55.60</lat>
+     <long>13.0</long>
+       <date></date>
+       <clubname></clubname>
+       <address></address>
+   </city>
+    <city>
+        <name>Oslo</name>
+        <country>Norway</country>
+        <lat> 59.94</lat>
+        <long> 10.70</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Stockholm</name>
+        <country>Sweden</country>
+        <lat> 59.28</lat>
+        <long> 18.05</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Copenhagen</name>
+        <country>Denmark</country>
+        <lat> 55.66</lat>
+        <long> 12.58</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Berlin</name>
+        <country>Germany</country>
+        <lat> 52.50</lat>
+        <long> 13.45</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Milan</name>
+        <country>Italy</country>
+        <lat> 45.45</lat>
+        <long> 9.17</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Vienna</name>
+        <country>Austria</country>
+        <lat>48.23</lat>
+        <long> 16.167</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+   <city>
+     <name>Prague</name>
+     <country>Czech Republic</country>
+     <lat> 50.09</lat>
+     <long> 14.426</long>
+       <date></date>
+       <clubname></clubname>
+       <address></address>
+    </city>
+    <city>
+      <name>Birmingham</name>
+      <country>England</country>
+      <lat> 52.37</lat>
+      <long> 1.93</long>
+      <date></date>
+      <clubname></clubname>
+      <address></address>
+    </city>
+
+    <city>
+        <name>Bristol</name>
+        <country>England</country>
+        <lat> 51.46</lat>
+        <long> -2.57</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Leeds</name>
+        <country>England</country>
+        <lat> 53.75</lat>
+        <long> -1.50</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+      <name>Liverpool</name>
+      <country>England</country>
+      <lat> 53.32</lat>
+      <long> -3.0</long>
+      <date></date>
+      <clubname></clubname>
+      <address></address>
+    </city>
+    <city>
+        <name>London</name>
+        <country>England</country>
+        <lat> 51.54</lat>
+        <long> -0.8</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Manchester</name>
+        <country>England</country>
+        <lat> 53.50</lat>
+        <long> -2.25</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Lisbon</name>
+        <country>Portugal</country>
+        <lat> 38.74</lat>
+        <long> -9.14</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Paris</name>
+        <country>France</country>
+        <lat> 48.80</lat>
+        <long> 2.33</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+    <city>
+        <name>Venice</name>
+        <country>Italy</country>
+        <lat> 45.44</lat>
+        <long> 12.33</long>
+        <date></date>
+        <clubname></clubname>
+        <address></address>
+    </city>
+
+</cities>
